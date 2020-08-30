@@ -1,0 +1,17 @@
+{
+  "name": "arduino-led",
+  "version": "1.0.0",
+  "description": "Arduino LED using Node.js & Cylon.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Merth <ajikun9@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cylon": "^1.3.0",
+    "cylon-firmata": "^0.24.0",
+    "cylon-gpio": "^0.30.1",
+    "cylon-i2c": "^0.26.1"
+  }
+}
